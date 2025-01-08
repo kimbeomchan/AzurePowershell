@@ -1,8 +1,8 @@
 # Variables
-$DiskID = "/subscriptions/379f4262-13bb-41c9-bf54-3ed2cac5a023/resourceGroups/RG-BCKIM/providers/Microsoft.Compute/disks/vm-bckim_OsDisk_1_18d54f15fcb345a79d501bbf06f0df65" #기존 Disk ID
+$DiskID = "/subscriptions/#################/###############" #기존 Disk ID
 $VMName = "vm-bckim" #기존 VM Name
 $DiskSizeGB = 256 #변경할 Disk
-$AzSubscription = "Visual Studio Enterprise 구독 - MPN" #구독 이름
+$AzSubscription = "###################" #구독 이름
 
 # Script
 # Provide your Azure admin credentials
